@@ -1,9 +1,6 @@
 # 💫 Hakkımda:
 
-* 🎓 **Bilgisayar Programcılığı** öğrencisiyim.
-* 📱 **Java** kullanarak **Android / Mobil Uygulama** geliştirme alanında kendimi geliştiriyorum.
-* 🚀 **Scientia Mobile** adlı mobil uygulama projesi üzerinde aktif olarak çalışıyorum.
-* ⚡ Mobil ve web teknolojileriyle kullanıcı dostu, performanslı çözümler üretmeye odaklanıyorum.
+* 🎓 Bilgisayar Programcılığı mezunuyum. Java ile Android ve mobil uygulama geliştirme alanında kendimi tutkuyla geliştirmeye devam ediyorum. Aktif olarak kendi mobil uygulama projelerim üzerinde çalışıyor; mobil ve web teknolojilerini kullanarak kullanıcı dostu, estetik ve yüksek performanslı çözümler üretmeye odaklanıyorum. Yazılım dünyası içinde kendimi sürekli yenileyerek sektörde fark yaratan projeler geliştirmeyi hedefliyorum.
 
 ---
 
